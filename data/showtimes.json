@@ -1,0 +1,29 @@
+[
+    {
+        "showtime_id": "ST_M101_S1",
+        "movie_id": "M101",
+        "theatre_screen": "Screen 1",
+        "date": "2025-12-30",
+        "time": "21:00",
+        "language": "English",
+        "pricing_tier": "Premium"
+    },
+    {
+        "showtime_id": "ST_M102_S2",
+        "movie_id": "M102",
+        "theatre_screen": "Screen 2",
+        "date": "2025-12-30",
+        "time": "14:00",
+        "language": "Turkish Dub",
+        "pricing_tier": "Standard"
+    },
+    {
+        "showtime_id": "ST_M103_S3",
+        "movie_id": "M103",
+        "theatre_screen": "Screen 3",
+        "date": "2025-12-30",
+        "time": "16:30",
+        "language": "Turkish Dub",
+        "pricing_tier": "Standard"
+    }
+]

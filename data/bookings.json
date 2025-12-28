@@ -1,0 +1,25 @@
+[
+    {
+        "booking_id": "A7B2C91X",
+        "showtime_id": "ST_M101_S1",
+        "customer_email": "mehmet@gmail.com",
+        "seats": [
+            "A5",
+            "A6"
+        ],
+        "total_price": 250.0,
+        "status": "Confirmed"
+    },
+    {
+        "booking_id": "K8L3M42Y",
+        "showtime_id": "ST_M102_S2",
+        "customer_email": "kiymet@gmail.com",
+        "seats": [
+            "C1",
+            "C2",
+            "C3"
+        ],
+        "total_price": 315.0,
+        "status": "Confirmed"
+    }
+]

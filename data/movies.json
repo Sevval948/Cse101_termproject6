@@ -1,0 +1,26 @@
+[
+    {
+        "id": "M101",
+        "title": "Inception",
+        "genre": "Sci-Fi",
+        "duration": "148",
+        "rating": "9",
+        "description": "A thief steals secrets through dreams."
+    },
+    {
+        "id": "M102",
+        "title": "Encanto",
+        "genre": "Animation",
+        "duration": "102",
+        "rating": "7",
+        "description": "A Colombian girl faces being the only family member without powers."
+    },
+    {
+        "id": "M103",
+        "title": "Shrek",
+        "genre": "Animation",
+        "duration": "90",
+        "rating": "8",
+        "description": "An ogre sets out to rescue a princess to get his swamp back."
+    }
+]
